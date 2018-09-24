@@ -24,8 +24,12 @@ sess.close() # 使用模式一必须关闭会话 否则会导致资源泄漏
 with tf.Session() as sess:
     # 使用创建好的会话来计算结果
     res = sess.run(result) # 上下文退出时会话资源释放也就自动完成
-    print(res)
+    result.eval(session= sess) # 与前者作用一样
 
+# 交互模式下使用session
+# sess = tf.InteractiveSession()
+# print(sess.eval())
+# sess.close()
 
 
 
