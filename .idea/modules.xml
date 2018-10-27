@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/study/100-Days-Of-ML-Code/.idea/100-Days-Of-ML-Code.iml" filepath="$USER_HOME$/study/100-Days-Of-ML-Code/.idea/100-Days-Of-ML-Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TensorflowStudy.iml" filepath="$PROJECT_DIR$/.idea/TensorflowStudy.iml" />
     </modules>
   </component>
