@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # !/usr/bin/python
-import numpy
-world_alchohol = numpy.genfromtxt("../data_set/world_alcohol.txt", delimiter=",")
+import numpy as np
+from numpy import pi
+# world_alchohol = numpy.genfromtxt("../data_set/world_alcohol.txt", delimiter=",")
 
 
 # array()
@@ -58,10 +59,31 @@ world_alchohol = numpy.genfromtxt("../data_set/world_alcohol.txt", delimiter=","
 # print(vector)
 # vector = numpy.array([10, 20, 30, 40])
 # print(vector.sum())
-matrix = numpy.array([
-                [5, 10, 15],
-                [20, 25, 30],
-                [35, 40, 45]
-             ])
-res = matrix.sum(axis=1)
-print(res)
+# matrix = numpy.array([ http://localhost:8888/?token=4062dff9af23c05eaba7327a6d87da83c9c4e9d46c6daa40
+#                 [5, 10, 15],
+#                 [20, 25, 30],
+#                 [35, 40, 45]
+#              ])
+# res = matrix.sum(axis=1)
+# print(res)
+# a = np.arange(15).reshape(3, 5)
+# print(a)
+# print(a.shape)
+# print(a.ndim)
+# print(a.dtype.name)
+# print(a.size)
+# print(np.zeros((3, 4)))
+
+# print(np.ones((2, 3, 4), dtype=np.int64))
+# create sequences of numbers
+# print(np.arange(10, 30, 5))
+# print(np.random.random((2, 3)))
+A = np.array( [[1,1],
+               [0,1]] )
+B = np.array( [[2,0],
+               [3,4]] )
+print(A)
+print(B)
+#print A*B
+print(A.dot(B))
+print(np.dot(A, B))
