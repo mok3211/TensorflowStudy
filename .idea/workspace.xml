@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="625d4a31-4bde-4c89-bde2-a1cdb9000e50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/numpy_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/numpy_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="625d4a31-4bde-4c89-bde2-a1cdb9000e50" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TensorflowStudy$pandas_test.coverage" NAME="pandas_test Coverage Results" MODIFIED="1553932409894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs" />
     <SUITE FILE_PATH="coverage/TensorflowStudy$3_2.coverage" NAME="3.2 Coverage Results" MODIFIED="1537707833448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
     <SUITE FILE_PATH="coverage/TensorflowStudy$3_3.coverage" NAME="3.3 Coverage Results" MODIFIED="1537781393754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter03" />
   </component>
@@ -27,13 +25,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="numpy_test" value="368" />
-          <entry key="py" value="149" />
+          <entry key="numpy_test" value="1134" />
+          <entry key="py" value="621" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="517" />
+          <entry key="Python" value="1755" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="5" />
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -41,13 +51,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libs/numpy_test.py">
+        <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="116" column="8" lean-forward="true" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
-              <folding>
-                <element signature="e#43#61#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="419">
+              <caret line="43" column="17" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -73,6 +80,7 @@
         <option value="$PROJECT_DIR$/51tv/variable.py" />
         <option value="$PROJECT_DIR$/neural_net/simple_neural_net.py" />
         <option value="$PROJECT_DIR$/libs/numpy_test.py" />
+        <option value="$PROJECT_DIR$/libs/pandas_test.py" />
       </list>
     </option>
   </component>
@@ -83,8 +91,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="647" />
-    <option name="y" value="23" />
+    <option name="x" value="870" />
+    <option name="y" value="36" />
     <option name="width" value="1868" />
     <option name="height" value="1006" />
   </component>
@@ -107,6 +115,11 @@
               <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorflowStudy" type="462c0819:PsiDirectoryNode" />
               <item name="51tv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TensorflowStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="data_set" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -144,29 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.numpy_test">
-    <configuration name="3.2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TensorflowStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter03" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter03/3.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pandas_test">
     <configuration name="3.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,6 +221,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pandas_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorflowStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/pandas_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="simple_neural_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -276,18 +286,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.3.3" />
-      <item itemvalue="Python.3.2" />
       <item itemvalue="Python.variable" />
       <item itemvalue="Python.numpy_test" />
       <item itemvalue="Python.simple_neural_net" />
+      <item itemvalue="Python.pandas_test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pandas_test" />
         <item itemvalue="Python.numpy_test" />
         <item itemvalue="Python.simple_neural_net" />
         <item itemvalue="Python.variable" />
         <item itemvalue="Python.3.3" />
-        <item itemvalue="Python.3.2" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +326,7 @@
     <option name="totallyTimeSpent" value="9635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="647" y="23" width="1868" height="1006" extended-state="0" />
+    <frame x="870" y="36" width="1868" height="1006" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13855422" />
@@ -325,7 +335,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2891089" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -413,11 +423,30 @@
     <entry file="file://$USER_HOME$/anaconda3/envs/lefeipy3/lib/python3.7/site-packages/numpy/random/__init__.py" />
     <entry file="file://$PROJECT_DIR$/libs/numpy_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="116" column="8" lean-forward="true" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
+        <state relative-caret-position="541">
+          <caret line="125" column="17" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
           <folding>
             <element signature="e#43#61#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_set/fandango_score_comparison.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_set/thanksgiving-2015-poll-data.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_set/percent-bachelors-degrees-women-usa.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_set/food_info.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="35" />
         </state>
       </provider>
     </entry>
