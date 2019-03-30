@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="625d4a31-4bde-4c89-bde2-a1cdb9000e50" name="Default Changelist" comment="" />
+    <list default="true" id="625d4a31-4bde-4c89-bde2-a1cdb9000e50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/libs/pandas_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/libs/pandas_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +27,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Python Console" value="155" />
           <entry key="numpy_test" value="1134" />
-          <entry key="py" value="621" />
+          <entry key="py" value="683" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1755" />
+          <entry key="Python" value="1972" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -53,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="43" column="17" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="35" />
+            <state relative-caret-position="1054">
+              <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -91,8 +94,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="870" />
-    <option name="y" value="36" />
+    <option name="x" value="802" />
+    <option name="y" value="28" />
     <option name="width" value="1868" />
     <option name="height" value="1006" />
   </component>
@@ -326,8 +329,7 @@
     <option name="totallyTimeSpent" value="9635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="870" y="36" width="1868" height="1006" extended-state="0" />
-    <editor active="true" />
+    <frame x="802" y="28" width="1868" height="1006" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13855422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -445,8 +447,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="1054">
+          <caret line="62" column="2" selection-start-line="62" selection-start-column="2" selection-end-line="62" selection-end-column="2" />
         </state>
       </provider>
     </entry>
