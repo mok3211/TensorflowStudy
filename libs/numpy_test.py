@@ -78,12 +78,49 @@ from numpy import pi
 # create sequences of numbers
 # print(np.arange(10, 30, 5))
 # print(np.random.random((2, 3)))
-A = np.array( [[1,1],
-               [0,1]] )
-B = np.array( [[2,0],
-               [3,4]] )
-print(A)
-print(B)
-#print A*B
-print(A.dot(B))
-print(np.dot(A, B))
+# A = np.array( [[1,1],
+#                [0,1]] )
+# B = np.array( [[2,0],
+#                [3,4]] )
+# print(A)
+# print(B)
+# #print A*B
+# print(A.dot(B))
+# print(np.dot(A, B))
+
+# 常用计算函数
+# b = np.arange(3)
+# print(np.sqrt(b))
+# a = np.floor(10 * np.random.random((2, 12)))
+# print(a)
+# a = np.arange(12)
+# b = a
+# print(b is a)
+
+# c = a.view()
+# c is a
+# c.shape = 2,6
+# #print a.shape
+# c[0,4] = 1234
+# a
+
+#data = np.sin(np.arange(20)).reshape(5,4)
+#print data
+#ind = data.argmax(axis=0)
+#print ind
+#data_max = data[ind, xrange(data.shape[1])]
+#print data_max
+# all(data_max == data.max(axis=0))
+
+a = np.arange(0, 40, 10)
+b = np.tile(a, (3, 5))
+print(b)
+a = np.array([[4, 3, 5], [1, 2, 1]])
+#print a
+#b = np.sort(a, axis=1)
+#print b
+#b
+#a.sort(axis=1)
+#print a
+a = np.array([4, 3, 1, 2])
+j = np.argsort(a)
