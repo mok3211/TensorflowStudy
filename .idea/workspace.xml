@@ -27,46 +27,37 @@
         <counts>
           <entry key="Python Console" value="197" />
           <entry key="numpy_test" value="1134" />
-          <entry key="py" value="2590" />
+          <entry key="py" value="2929" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3921" />
+          <entry key="Python" value="4260" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="5" />
-          <entry key="py" value="3" />
+          <entry key="csv" value="6" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="3" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libs/pandas_test3.py">
+        <entry file="file://$PROJECT_DIR$/libs/pandas_test_4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+            <state relative-caret-position="436">
+              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
               <folding>
-                <element signature="e#46#65#0" expanded="true" />
+                <element signature="e#47#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,6 +86,7 @@
         <option value="$PROJECT_DIR$/libs/numpy_test.py" />
         <option value="$PROJECT_DIR$/libs/pandas_test.py" />
         <option value="$PROJECT_DIR$/libs/pandas_test3.py" />
+        <option value="$PROJECT_DIR$/libs/pandas_test_4.py" />
       </list>
     </option>
   </component>
@@ -105,8 +97,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1077" />
-    <option name="y" value="30" />
+    <option name="x" value="689" />
+    <option name="y" value="54" />
     <option name="width" value="1868" />
     <option name="height" value="1006" />
   </component>
@@ -171,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pandas_test3">
+  <component name="RunManager" selected="Python.pandas_test_4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,6 +243,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pandas_test_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TensorflowStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/pandas_test_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="simple_neural_net" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,42 +284,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TensorflowStudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/51tv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/51tv/variable.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.variable" />
       <item itemvalue="Python.numpy_test" />
       <item itemvalue="Python.simple_neural_net" />
       <item itemvalue="Python.pandas_test" />
       <item itemvalue="Python.pandas_test3" />
+      <item itemvalue="Python.pandas_test_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pandas_test_4" />
         <item itemvalue="Python.pandas_test3" />
         <item itemvalue="Python.pandas_test" />
         <item itemvalue="Python.numpy_test" />
         <item itemvalue="Python.simple_neural_net" />
-        <item itemvalue="Python.variable" />
       </list>
     </recent_temporary>
   </component>
@@ -337,9 +326,10 @@
     <option name="totallyTimeSpent" value="9635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1077" y="30" width="1868" height="1006" extended-state="0" />
+    <frame x="689" y="54" width="1868" height="1006" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13855422" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16429354" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -441,9 +431,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_set/fandango_score_comparison.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_set/thanksgiving-2015-poll-data.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -453,6 +440,16 @@
     <entry file="file://$PROJECT_DIR$/data_set/food_info.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/libs/pandas_test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="72" selection-start-line="72" selection-end-line="85" selection-end-column="14" />
+          <folding>
+            <element signature="e#46#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/libs/pandas_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
@@ -460,12 +457,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/pandas_test3.py">
+    <entry file="file://$PROJECT_DIR$/data_set/fandango_score_comparison.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/pandas_test_4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="73" column="26" lean-forward="true" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        <state relative-caret-position="436">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
           <folding>
-            <element signature="e#46#65#0" expanded="true" />
+            <element signature="e#47#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
