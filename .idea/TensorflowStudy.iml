@@ -5,6 +5,8 @@
     <orderEntry type="jdk" jdkName="Python 3.6 (tensorflow)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="100-Days-Of-ML-Code" />
+    <orderEntry type="module" module-name="tensorflow-tutorial" />
+    <orderEntry type="module" module-name="《TensorFlow实战》代码" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

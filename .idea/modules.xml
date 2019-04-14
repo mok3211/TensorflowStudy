@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$USER_HOME$/study/100-Days-Of-ML-Code/.idea/100-Days-Of-ML-Code.iml" filepath="$USER_HOME$/study/100-Days-Of-ML-Code/.idea/100-Days-Of-ML-Code.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TensorflowStudy.iml" filepath="$PROJECT_DIR$/.idea/TensorflowStudy.iml" />
+      <module fileurl="file://$USER_HOME$/Study/tensorflow-tutorial/.idea/tensorflow-tutorial.iml" filepath="$USER_HOME$/Study/tensorflow-tutorial/.idea/tensorflow-tutorial.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/《TensorFlow实战》代码/.idea/《TensorFlow实战》代码.iml" filepath="$USER_HOME$/Downloads/《TensorFlow实战》代码/.idea/《TensorFlow实战》代码.iml" />
     </modules>
   </component>
 </project>

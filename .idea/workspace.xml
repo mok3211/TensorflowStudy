@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="625d4a31-4bde-4c89-bde2-a1cdb9000e50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/TensorflowStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TensorflowStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_set/UNRATE.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_set/unrate.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,72 +22,83 @@
     <session id="729534682">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="197" />
+          <entry key="number_recognition" value="3" />
           <entry key="numpy_test" value="1134" />
-          <entry key="py" value="3208" />
+          <entry key="py" value="4176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4539" />
+          <entry key="Python" value="5510" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="csv" value="7" />
-          <entry key="py" value="7" />
+          <entry key="ipynb" value="4" />
+          <entry key="md" value="1" />
+          <entry key="py" value="11" />
+          <entry key="sh" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="7" />
+          <entry key="IPNB" value="4" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/matplotlib_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="103" column="28" lean-forward="true" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
-              <folding>
-                <element signature="e#47#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libs/matplotlib_test_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-              <folding>
-                <element signature="e#47#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/libs/matplotlib_test_5.py">
+        <entry file="file://$PROJECT_DIR$/practice/number_recognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="83">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <element signature="e#46#65#0" expanded="true" />
+                <element signature="e#46#104#0" expanded="true" />
+                <marker date="1555212878762" expanded="true" signature="194:379" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/《TensorFlow实战》代码/3_2_HelloWorld.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="46" column="67" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/envs/tensorflow27/lib/python2.7/site-packages/tensorflow/python/framework/ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="2432" column="24" selection-start-line="2432" selection-start-column="24" selection-end-line="2432" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="1692" column="4" selection-start-line="1692" selection-start-column="4" selection-end-line="1692" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -117,6 +130,7 @@
         <option value="$PROJECT_DIR$/libs/matplotlib_test.py" />
         <option value="$PROJECT_DIR$/libs/matplotlib_test_2.py" />
         <option value="$PROJECT_DIR$/libs/matplotlib_test_5.py" />
+        <option value="$PROJECT_DIR$/practice/number_recognition.py" />
       </list>
     </option>
   </component>
@@ -127,8 +141,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="710" />
-    <option name="y" value="60" />
+    <option name="y" value="358" />
     <option name="width" value="1868" />
     <option name="height" value="1006" />
   </component>
@@ -140,6 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,23 +164,16 @@
             <path>
               <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="TensorflowStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="51tv" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TensorflowStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="data_set" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TensorflowStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TensorflowStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="《TensorFlow实战》代码" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matplotlib_test_2">
+  <component name="RunManager" selected="Python.number_recognition">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,6 +227,9 @@
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -239,6 +249,9 @@
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -254,17 +267,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="number_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/pandas_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/practice/number_recognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,6 +290,9 @@
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -296,6 +312,9 @@
       <module name="TensorflowStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -312,19 +331,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.pandas_test" />
       <item itemvalue="Python.pandas_test3" />
       <item itemvalue="Python.pandas_test_4" />
       <item itemvalue="Python.matplotlib_test" />
       <item itemvalue="Python.matplotlib_test_2" />
+      <item itemvalue="Python.number_recognition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.number_recognition" />
         <item itemvalue="Python.matplotlib_test_2" />
         <item itemvalue="Python.matplotlib_test" />
         <item itemvalue="Python.pandas_test_4" />
         <item itemvalue="Python.pandas_test3" />
-        <item itemvalue="Python.pandas_test" />
       </list>
     </recent_temporary>
   </component>
@@ -353,10 +372,9 @@
     <option name="totallyTimeSpent" value="9635000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="710" y="60" width="1868" height="1006" extended-state="0" />
-    <editor active="true" />
+    <frame x="167" y="97" width="1868" height="1006" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16429354" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16593647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -371,7 +389,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50027394" side_tool="true" weight="0.34404144" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49972603" weight="0.22558923" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.34343433" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.34343433" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -452,9 +470,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="541">
           <caret line="125" column="17" selection-start-line="125" selection-start-column="17" selection-end-line="125" selection-end-column="17" />
-          <folding>
-            <element signature="e#43#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,9 +486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="72" selection-start-line="72" selection-end-line="85" selection-end-column="14" />
-          <folding>
-            <element signature="e#46#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="90" column="40" lean-forward="true" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
-          <folding>
-            <element signature="e#47#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -502,13 +511,10 @@
         <state relative-caret-position="-242" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/matplotlib_test.py">
+    <entry file="file://$PROJECT_DIR$/libs/matplotlib_test_5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="103" column="28" lean-forward="true" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
-          <folding>
-            <element signature="e#47#66#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="696">
+          <caret line="140" column="65" selection-start-line="140" selection-start-column="65" selection-end-line="140" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -516,18 +522,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="115" lean-forward="true" selection-start-line="115" selection-end-line="115" />
-          <folding>
-            <element signature="e#47#66#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/libs/matplotlib_test_5.py">
+    <entry file="file://$PROJECT_DIR$/libs/matplotlib_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="1496">
+          <caret line="88" column="19" lean-forward="true" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1692" column="4" selection-start-line="1692" selection-start-column="4" selection-end-line="1692" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///anaconda3/envs/tensorflow27/lib/python2.7/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="2432" column="24" selection-start-line="2432" selection-start-column="24" selection-end-line="2432" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/Deep_Learning_with_TensorFlow/1.4.0/Chapter03/.ipynb_checkpoints/1. 图，张量及会话-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/Deep_Learning_with_TensorFlow/1.4.0/Chapter03/3. 完整神经网络样例程序.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/Deep_Learning_with_TensorFlow/1.4.0/Chapter03/.ipynb_checkpoints/3. 完整神经网络样例程序-checkpoint.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/Deep_Learning_with_TensorFlow/0.12.0/Chapter03/3. 完整神经网络样例程序.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Study/tensorflow-tutorial/run_juypter.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/《TensorFlow实战》代码/3_2_HelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="46" column="67" selection-start-line="46" selection-start-column="67" selection-end-line="46" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/number_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <element signature="e#46#65#0" expanded="true" />
+            <element signature="e#46#104#0" expanded="true" />
+            <marker date="1555212878762" expanded="true" signature="194:379" ph="..." />
           </folding>
         </state>
       </provider>
